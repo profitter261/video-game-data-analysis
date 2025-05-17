@@ -20,3 +20,9 @@ This project showcases end-to-end data analysis of global video game sales using
 1) MySQL – Data cleaning, aggregation, filtering, and query-based insights
 2) Microsoft Excel – Slicers, Pivot Tables, and Charts for a dynamic dashboard
 3) Excel Dashboard – Interactive and professional visualization with filters
+
+## 📁 Dataset Source 1
+- [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+## 📁 Dataset Source 2
+- [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/datasets/hassanraof/top10k-tmdb-movies-csv)
+
