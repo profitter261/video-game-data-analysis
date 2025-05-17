@@ -1,4 +1,4 @@
-# video-game-data-analysis
+# Video-game-data-analysis
 This project showcases end-to-end data analysis of global video game sales using SQL for data processing and Excel for interactive dashboarding. It provides deep insights into platform-wise, genre-wise, publisher-wise performance and regional sales trends.
 
 ## Key Insights Uncovered:
